@@ -1,4 +1,4 @@
-package pages;
+package user.story.registeration;
 
 import com.shaft.driver.SHAFT;
 import io.qameta.allure.Step;
