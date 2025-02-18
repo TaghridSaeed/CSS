@@ -1,0 +1,18 @@
+
+[0;7m------------------------------------------------------------------------------------------------------------------------------------------------
+                                        Starting Execution: '1 out of 1' test cases in the current suite                                        
+                                              Test Method: 'tests.RestfulBookerTests.RegisterUser'                                              
+                                                      Test Description: 'Register New User'                                                      
+------------------------------------------------------------------------------------------------------------------------------------------------
+[0m
+[ReportManager] Type "First name" @18-02-2025 14:18:26.0304 PM
+[ReportManager] Type "Second name" @18-02-2025 14:18:26.0466 PM
+[ReportManager] Type "Third name" @18-02-2025 14:18:26.0640 PM
+[ReportManager] Type "Family name" @18-02-2025 14:18:26.0814 PM
+[ReportManager] Type "Enter mobile number" @18-02-2025 14:18:26.0993 PM
+[ReportManager] Type "National ID" @18-02-2025 14:18:27.0118 PM
+[ReportManager] Type "Email" @18-02-2025 14:18:27.0259 PM
+[ReportManager] Type "Password" @18-02-2025 14:18:27.0473 PM
+[ReportManager] Type "Confirm password" @18-02-2025 14:18:27.0626 PM
+[ReportManager] Click "By.xpath: //button[contains(text(),'Create new account')]" Broken @18-02-2025 14:19:28.0552 PM
+[ReportManager] Successfully created attachment 'Animated Gif - 1739881168571' @18-02-2025 14:19:28.0572 PM

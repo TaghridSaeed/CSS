@@ -1,0 +1,14 @@
+[ReportManager] Setting "targetOperatingSystem" property with "windows". @18-02-2025 14:18:15.0065 PM
+[ReportManager] Setting "screenshotParams_scalingFactor" property with "1.0". @18-02-2025 14:18:15.0197 PM
+[ReportManager] Setting "screenshotParams_screenshotType" property with "VIEWPORT". @18-02-2025 14:18:15.0202 PM
+[ReportManager] Capabilities {acceptInsecureCerts: true, browserName: MicrosoftEdge, ms:edgeOptions: {args: [--remote-debugging-pipe, --no-sandbox, --start-maximized], extensions: [], prefs: {download.default_directory: D:\Users\taghrid.alsayed\Do..., download.prompt_for_download: false, profile.default_content_settings.popups: 0}}, pageLoadStrategy: normal, timeouts: {pageLoad: 60000, script: 60000}, unhandledPromptBehavior: ignore, webSocketUrl: true} @18-02-2025 14:18:15.0243 PM
+[ReportManager] Attempting to run locally on: "Windows | Microsoft edge". @18-02-2025 14:18:15.0245 PM
+[ReportManager] Identifying OS/Driver combination. Please note that if a new browser/driver executable will be downloaded it may take some time depending on your connection... @18-02-2025 14:18:15.0246 PM
+[ReportManager] Successfully Opened: "Windows | Microsoft edge". @18-02-2025 14:18:22.0145 PM
+[ReportManager] Target URL: "http://192.168.10.71:4200/auth/register" @18-02-2025 14:18:22.0171 PM
+[ReportManager] Initial URL: "about:blank" @18-02-2025 14:18:22.0198 PM
+[ReportManager] Navigate to url "http://192.168.10.71:4200/auth/register". @18-02-2025 14:18:25.0605 PM
+[ReportManager] Successfully created attachment 'Screenshot - Navigate to url_14-18-25-604_18022025' @18-02-2025 14:18:25.0607 PM
+[ReportManager] Loaded Test Data: "src/test/resources/testDataFiles/RestfulBookerCreateBookingBody.json". @18-02-2025 14:18:25.0621 PM
+[ReportManager] Successfully created attachment 'Test Data - JSON' @18-02-2025 14:18:25.0623 PM
+[ReportManager] Successfully created attachment 'Animated Gif - 1739881105623' @18-02-2025 14:18:25.0624 PM
