@@ -6,7 +6,8 @@ import io.qameta.allure.SeverityLevel;
 import org.testng.annotations.AfterMethod;
 import org.testng.annotations.BeforeMethod;
 import org.testng.annotations.Test;
-import pages.ChangePasswordPage_Customer;
+import user.story.registeration.ChangePasswordPage_Customer;
+
 
 public class ChangePasswordTests {
     private SHAFT.GUI.WebDriver driver;
@@ -20,7 +21,6 @@ public class ChangePasswordTests {
 
         // Perform login steps before accessing change password page
         // Add login logic here if needed
-
         changePasswordPage = new ChangePasswordPage_Customer(driver);
     }
 
