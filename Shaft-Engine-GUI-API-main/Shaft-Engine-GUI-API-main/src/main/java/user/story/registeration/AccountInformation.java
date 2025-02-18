@@ -8,7 +8,7 @@ import org.openqa.selenium.support.ui.Select;
 
 public class AccountInformation {
 
-    SHAFT.GUI.WebDriver driver;
+    SHAFT.GUI.WebDriver driver; //ddd
     private String url = "https://automationexercise.com/signup";
     private By gender = By.id("id_gender2");
     private By password = By.id("password");

@@ -26,7 +26,7 @@ public class ChangePasswordPage_Customer {
         return this;
     }
 
-    @Step("Enter New Password: {newPassword}")
+    @Step("Enter New Password: {newPassword}") //ddd
     public ChangePasswordPage_Customer enterNewPassword(String newPassword) {
         driver.element().type(newPasswordInputField, newPassword);
         return this;

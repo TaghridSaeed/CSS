@@ -39,7 +39,7 @@ public class MyAccountPage {
         return this;
     }
 
-    @Step("Enter Nickname: {nickname}")
+    @Step("Enter Nickname: {nickname}") dd
     public MyAccountPage enterNickname(String nickname) {
         driver.element().type(nicknameField, nickname);
         return this;

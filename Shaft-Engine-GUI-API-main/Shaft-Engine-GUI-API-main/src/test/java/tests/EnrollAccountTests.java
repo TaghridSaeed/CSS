@@ -18,7 +18,7 @@ public class EnrollAccountTests {
         driver = new SHAFT.GUI.WebDriver();
         driver.browser().navigateToURL(websiteURL);
 
-        // Perform login steps here
+        // Perform login steps here //vv
         myAccountPage = new MyAccountPage(driver);
     }
 
