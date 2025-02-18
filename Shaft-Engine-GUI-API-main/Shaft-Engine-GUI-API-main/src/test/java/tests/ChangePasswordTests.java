@@ -12,7 +12,7 @@ import user.story.registeration.ChangePasswordPage_Customer;
 public class ChangePasswordTests {
     private SHAFT.GUI.WebDriver driver;
     private ChangePasswordPage_Customer changePasswordPage;
-    private final String websiteURL = "https://yourwebsite.com/Login"; // Replace with actual URL
+    private final String websiteURL = "http://192.168.10.71:4200/Login"; // Replace with actual URL
 
     @BeforeMethod
     public void setUp() {
@@ -34,11 +34,11 @@ public class ChangePasswordTests {
                 .clickOnSaveChangesButton();
 
         // Verify redirection to login page after successful password change
-        driver.assertThat().browser().url().isEqualTo("https://yourwebsite.com/login").perform();
+        driver.assertThat().browser().url().isEqualTo("http://192.168.10.71:4200/login").perform();
     }
 
     @AfterMethod
     public void tearDown() {
-        driver.quit();//dd
+        driver.quit();
     }
 }
